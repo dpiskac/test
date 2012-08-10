@@ -71,11 +71,13 @@ public class MazeDriver {
 		{
 			m = new Maze();
 			
-		}
+		} 
 		System.out.println();
 		System.out.println(m);
 		MazeSolver ms = new MazeSolver(m);
 		ms.solveMaze();
+		
+		in.close();
 		
 	}
 
