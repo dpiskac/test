@@ -8,6 +8,7 @@ public class MazeSolver {
 		
 	}
 	
+	
 	public void solveMaze()
 	{
 		/*

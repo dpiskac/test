@@ -10,6 +10,7 @@ public class Position
 		
 	}
 	
+	
 	public String toString()
 	{
 		String rval = "";
