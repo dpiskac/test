@@ -14,7 +14,7 @@ public class Maze {
 	char border = (char) 999;
 	char path = 'x';
 
-	
+	//foo
 
 	public Maze(char m[][], int w, int h)
 	{
